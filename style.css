@@ -1,0 +1,20 @@
+body {
+  
+  }
+
+  .jumbotron {
+    background-image: url(https://www.neoenergia.com/pt-br/te-interessa/meio-ambiente/PublishingImages/fotos/covid-virus-bacteria.png);
+    background-size: 100% 100%;
+    text-align: center;
+    color: #494949;
+  }
+  
+  h1 span {
+    background-color: #C2F7FF;
+    padding: 15px;
+  }
+
+  p span {
+    background-color: #C2F7FF;
+    padding: 15px;
+  }
